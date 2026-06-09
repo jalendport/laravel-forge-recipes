@@ -1,4 +1,4 @@
-# Laravel Forge Scripts
+# Laravel Forge Recipes
 
 A collection of recipes and other scripts designed to enhance your Laravel Forge workflow.
 
@@ -20,4 +20,4 @@ Each script has its own README with installation steps and configuration options
 
 ## License
 
-Released under the [BSD Zero Clause License](LICENSE.md).
+See [LICENSE.md](LICENSE.md).
